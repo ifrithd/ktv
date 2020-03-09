@@ -1,0 +1,2 @@
+exit
+Exit the KTV system. ONLY by using this command could song you added be saved.

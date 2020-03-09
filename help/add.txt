@@ -1,0 +1,2 @@
+add
+Add a new song. You have to have the administor privilege.

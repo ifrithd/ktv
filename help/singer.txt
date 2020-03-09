@@ -1,0 +1,2 @@
+singer [singername]
+Display all singers[Display a singer's songs].

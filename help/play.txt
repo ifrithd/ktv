@@ -1,0 +1,2 @@
+play songname
+Display the lyrics of the song.

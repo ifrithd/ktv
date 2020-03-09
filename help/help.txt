@@ -1,0 +1,2 @@
+help [command]
+Display information about commands.

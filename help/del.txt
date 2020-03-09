@@ -1,0 +1,2 @@
+del songname
+Delete a song. You have to have the administor privilege.

@@ -1,0 +1,10 @@
+add
+admin [-q]
+del songname
+exit
+help [command]
+play songname
+singer [singername]
+song [songname]
+
+Try "help [command]" for details.

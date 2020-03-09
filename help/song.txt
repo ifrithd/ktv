@@ -1,0 +1,2 @@
+song [songname]
+Display information about all(one) song(s).

@@ -1,0 +1,5 @@
+admin [-q]
+Change your role to administor(or general user).
+
+Options:
+-q		Change your role to general user.
